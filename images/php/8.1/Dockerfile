@@ -77,6 +77,7 @@ RUN docker-php-ext-configure \
     opcache \
     pcntl \
     pdo_mysql \
+    pdo_dblib \
     soap \
     sockets \
     sodium \
